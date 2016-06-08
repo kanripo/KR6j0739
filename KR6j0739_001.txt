@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:53.206119
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 菩提心義
 #+PROPERTY: CBETA_ID T46n1953
 #+PROPERTY: ID KR6j0739
