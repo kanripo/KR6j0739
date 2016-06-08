@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:53.206119
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 菩提心義
 #+PROPERTY: CBETA_ID T46n1953
 #+PROPERTY: ID KR6j0739
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1953
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0739_T_001-0987a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1953¶
-
- 菩提心義(海運)¶
+No. 1953¶
+菩提心義(海運)¶
 ¶
 
 菩提之心。成佛之本。發起之相。具在眾經。大¶
@@ -34,7 +33,7 @@ No.1953¶
 門。即發起妄心求菩提故名菩提心。故起信¶
 云。云何熏習。起淨法不斷。所謂以有真如法¶
 故。能熏習無明。以熏習因緣力故。則令妄¶
-心厭生死苦。樂求涅槃。以妄心有厭求因緣¶
+心厭生死苦。樂求涅樂。以妄心有厭求因緣¶
 故。即熏習真如。自信已性。知心妄動無前境¶
 界。修遠離法。以如實知無前境界故。種種方¶
 便起隨順行。不取不念。乃至久遠熏習力故。¶
